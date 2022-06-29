@@ -1,4 +1,5 @@
-👋 Hi there! My name is Erik van der Heide,
+### 👋 Hi there! 
+My name is **Erik van der Heide**, \\
 🎓 I have a study background in Econometrics & Operations Reseach, therefore
 ➗ I like to solve applied math and data science problems,
 🚚 in areas such as logistics, retail, energy and health care.
