@@ -8,7 +8,7 @@
 
 🚚 in areas such as logistics, retail, energy and health care.
 
-💻 During my studies I have learned to work with programming languages,
+💻 During my studies I have learned to work with different programming languages,
 
 🐍 such as Java, Python, R, MATLAB and AIMMS.
 
